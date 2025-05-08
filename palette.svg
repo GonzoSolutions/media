@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="64"
+   viewBox="0 0 135.46666 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   sodipodi:docname="palette.svg"
+   inkscape:export-filename="../48a12638/palette.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6832492"
+     inkscape:cx="185.96857"
+     inkscape:cy="50.871161"
+     inkscape:window-width="1920"
+     inkscape:window-height="961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1.0583333"
+       spacingy="1.0583333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
+       id="rect1"
+       width="16.933332"
+       height="16.933332"
+       x="33.866669"
+       y="0" />
+    <rect
+       style="fill:#090909;fill-opacity:1;stroke-width:1.05833"
+       id="rect1-0"
+       width="16.933332"
+       height="16.933332"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#090909;fill-opacity:1;stroke-width:1.05833"
+       x="4.0958738"
+       y="8.9792986"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#f2f2f2;fill-opacity:1;stroke-width:1.05833"
+         x="4.0958738"
+         y="8.9792986">090909</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#090909;fill-opacity:1;stroke-width:1.05833"
+       x="39.020874"
+       y="8.9792986"
+       id="text1-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#f2f2f2;fill-opacity:1;stroke-width:1.05833"
+         x="39.020874"
+         y="8.9792986">ff2a3a</tspan></text>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke-width:1.05833"
+       id="rect1-4"
+       width="16.933332"
+       height="16.933332"
+       x="16.933332"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#545454;fill-opacity:1;stroke-width:1.05833"
+       x="22.087538"
+       y="8.9792986"
+       id="text1-3-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-1-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#545454;fill-opacity:1;stroke-width:1.05833"
+         x="22.087538"
+         y="8.9792986">f9f9f9</tspan></text>
+  </g>
+</svg>
