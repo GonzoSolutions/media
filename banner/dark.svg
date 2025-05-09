@@ -7,8 +7,8 @@
    viewBox="0 0 128 64"
    version="1.1"
    id="svg1"
+   sodipodi:docname="dark.svg"
    inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
-   sodipodi:docname="banner.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -77,27 +77,15 @@
          sodipodi:nodetypes="ccccsc"
          inkscape:label="left" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2a3a;stroke-width:1"
-       x="48.258007"
-       y="37.526867"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-size:16px;fill:#090909;fill-opacity:1;stroke-width:1"
-         x="48.508007"
-         y="37.526867">GON</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
-       x="91.303154"
-       y="37.64093"
-       id="text2"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         style="stroke-width:1"
-         x="91.553154"
-         y="37.64093">O</tspan></text>
+    <path
+       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#090909"
+       d="m 32.318036,35.078867 v -6.144 q 0,-2.448 2.448,-2.448 h 4.832 l 0.72,0.56 v 0.656 h -5.568 q -1.088,0 -1.088,1.088 v 6.432 q 0,1.088 1.088,1.088 h 4.544 v -3.968 h -2.72 v -1.216 h 4.064 v 6.4 h -5.872 q -2.448,0 -2.448,-2.448 z m 11.219971,0 v -6.144 q 0,-2.448 2.448,-2.448 h 3.744 q 2.448,0 2.448,2.448 v 6.144 q 0,2.448 -2.448,2.448 h -3.744 q -2.448,0 -2.448,-2.448 z m 1.344,0.144 q 0,1.088 1.088,1.088 h 3.776 q 1.088,0 1.088,-1.088 v -6.432 q 0,-1.088 -1.088,-1.088 h -3.776 q -1.088,0 -1.088,1.088 z m 10.515982,2.304 v -11.04 h 1.488 l 5.808,8.96 v -8.96 h 1.344 v 11.04 h -1.488 l -5.808,-8.96 v 8.96 z"
+       id="text1"
+       aria-label="GON" />
+    <path
+       d="m 86.983163,35.19293 v -6.144 q 0,-2.448 2.448,-2.448 h 3.744 q 2.448,0 2.448,2.448 v 6.144 q 0,2.448 -2.448,2.448 h -3.744 q -2.448,0 -2.448,-2.448 z m 1.344,0.144 q 0,1.088 1.088,1.088 h 3.776 q 1.088,0 1.088,-1.088 v -6.432 q 0,-1.088 -1.088,-1.088 h -3.776 q -1.088,0 -1.088,1.088 z"
+       id="text2"
+       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#090909"
+       aria-label="O" />
   </g>
 </svg>
