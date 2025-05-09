@@ -1,7 +1,7 @@
-# Media
+### Media
 
-## Card
+#### Card
 
-## Banner 
+#### Banner 
 
-## Logo
+#### Logo
