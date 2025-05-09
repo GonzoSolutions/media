@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3416246"
-     inkscape:cx="-143.85544"
-     inkscape:cy="104.72378"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="88.01779"
+     inkscape:cy="189.47542"
      inkscape:window-width="1920"
      inkscape:window-height="961"
      inkscape:window-x="0"
@@ -62,7 +62,7 @@
        id="rect1"
        width="54.999996"
        height="85.000008"
-       x="0"
+       x="1.8119812e-06"
        y="0"
        inkscape:label="back" />
     <rect
@@ -75,27 +75,27 @@
        rx="3.9370081"
        ry="3.9370081" />
     <g
-       id="g3"
+       id="g3-5"
        inkscape:label="geometry"
        style="fill:#ff2a3a;fill-opacity:1"
-       transform="matrix(0.37297973,0,0,0.37297973,14.806094,29.868423)">
+       transform="matrix(0.66906378,0,0,0.66906378,4.811717,19.670522)">
       <path
          style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
          d="m 51.85833,16.933332 c 0,0 2.116667,-3.174999 -1.058333,-3.174999 -3.175,0 -11.641664,0 -11.641664,0 L 15.874999,50.799997 c 0,0 -2.116666,3.175 1.058334,3.175 3.175,0 11.641667,0 11.641667,0 z"
-         id="path1"
+         id="path1-9"
          inkscape:label="trunk" />
       <path
          style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
-         d="m 43.391663,53.974997 7.408335,-12.699999 c 0,0 3.175,-5.291666 3.175,0 0,5.291666 -10e-7,9.524999 -10e-7,9.524999 0,0 0,3.175 -3.175,3.175 z"
-         id="path2"
+         d="m 40.84967,53.974997 9.002243,-14.321751 c 0,0 2.653747,-3.669914 2.653747,1.621752 0.09861,-2.465139 -10e-7,9.524999 -10e-7,9.524999 0,0 0,3.175 -3.175,3.175 z"
+         id="path3-8"
          sodipodi:nodetypes="ccccsc"
          inkscape:label="right" />
       <path
          style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
-         d="m 24.508772,13.758333 -7.408335,12.699999 c 0,0 -3.175,5.291666 -3.175,0 0,-5.291666 10e-7,-9.524999 10e-7,-9.524999 0,0 0,-3.175 3.175,-3.175 z"
-         id="path3"
+         d="m 26.883659,13.758333 -9.002243,14.321751 c 0,0 -2.653747,3.669914 -2.653747,-1.621752 -0.09861,2.465139 10e-7,-9.524999 10e-7,-9.524999 0,0 0,-3.175 3.175,-3.175 z"
+         id="path3-8-6"
          sodipodi:nodetypes="ccccsc"
-         inkscape:label="left" />
+         inkscape:label="right" />
     </g>
   </g>
 </svg>
