@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="256"
+   viewBox="0 0 128 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   sodipodi:docname="banner.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="427.09414"
+     inkscape:cy="151.68178"
+     inkscape:window-width="1920"
+     inkscape:window-height="961"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       inkscape:label="geometry"
+       style="fill:#ff2a3a;fill-opacity:1"
+       transform="matrix(0.39784503,0,0,0.39784503,62.012991,18.526316)">
+      <path
+         style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
+         d="m 51.85833,16.933332 c 0,0 2.116667,-3.174999 -1.058333,-3.174999 -3.175,0 -11.641664,0 -11.641664,0 L 15.874999,50.799997 c 0,0 -2.116666,3.175 1.058334,3.175 3.175,0 11.641667,0 11.641667,0 z"
+         id="path1"
+         inkscape:label="trunk" />
+      <path
+         style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
+         d="m 43.391663,53.974997 7.408335,-12.699999 c 0,0 3.175,-5.291666 3.175,0 0,5.291666 -10e-7,9.524999 -10e-7,9.524999 0,0 0,3.175 -3.175,3.175 z"
+         id="path2"
+         sodipodi:nodetypes="ccccsc"
+         inkscape:label="right" />
+      <path
+         style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
+         d="m 24.508772,13.758333 -7.408335,12.699999 c 0,0 -3.175,5.291666 -3.175,0 0,-5.291666 10e-7,-9.524999 10e-7,-9.524999 0,0 0,-3.175 3.175,-3.175 z"
+         id="path3"
+         sodipodi:nodetypes="ccccsc"
+         inkscape:label="left" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2a3a;stroke-width:1"
+       x="48.258007"
+       y="37.526867"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-size:16px;fill:#090909;fill-opacity:1;stroke-width:1"
+         x="48.508007"
+         y="37.526867">GON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
+       x="91.303154"
+       y="37.64093"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:1"
+         x="91.553154"
+         y="37.64093">O</tspan></text>
+  </g>
+</svg>
