@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6832492"
-     inkscape:cx="223.98218"
-     inkscape:cy="125.03498"
+     inkscape:zoom="0.6708123"
+     inkscape:cx="189.32271"
+     inkscape:cy="105.09646"
      inkscape:window-width="1920"
      inkscape:window-height="961"
      inkscape:window-x="0"
@@ -54,18 +54,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1" />
-  <path
-     style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
-     d="M 92.074995,53.974997 99.48333,41.274998 c 0,0 3.175,-5.291666 3.175,0 0,5.291666 0,9.524999 0,9.524999 0,0 0,3.175 -3.175001,3.175 z"
-     id="path2"
-     sodipodi:nodetypes="ccccsc"
-     inkscape:label="right" />
-  <path
-     style="fill:#ff2a3a;fill-opacity:1;stroke-width:1.05833"
-     d="m 101.81932,12.476461 -8.466665,13.758332 c 0,0 -3.007896,4.233333 -3.007896,-1.058333 l 10e-7,-9.524999 c 0,0 0,-3.175 3.175,-3.175 z"
-     id="path3"
-     sodipodi:nodetypes="ccccsc"
-     inkscape:label="left" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
