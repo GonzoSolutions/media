@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    sodipodi:docname="dark.svg"
-   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1.8973437"
-     inkscape:cx="254.56643"
+     inkscape:cx="254.56642"
      inkscape:cy="170.50153"
      inkscape:window-width="1920"
      inkscape:window-height="961"
@@ -80,27 +80,15 @@
            inkscape:label="right" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff2a3a;stroke-width:1"
-       x="48.258007"
-       y="37.526867"
-       id="text1"><tspan
-         sodipodi:role="line"
-         id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:16px;font-family:Oxanium;-inkscape-font-specification:'Oxanium Semi-Bold';fill:#090909;fill-opacity:1;stroke-width:1"
-         x="48.508007"
-         y="37.526867">GON</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:Oxanium;text-align:center;letter-spacing:0.5px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#090909;fill-opacity:1;stroke-width:1"
-       x="91.303154"
-       y="37.64093"
-       id="text2"><tspan
-         sodipodi:role="line"
-         id="tspan2"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Oxanium;-inkscape-font-specification:'Oxanium Semi-Bold';stroke-width:1"
-         x="91.553154"
-         y="37.64093">O</tspan></text>
+    <path
+       style="font-weight:600;font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:'Oxanium Semi-Bold';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#090909"
+       d="m 32.070022,34.918867 v -5.824 q 0,-2.608 2.608,-2.608 h 4.688 l 0.944,0.736 v 1.04 h -5.584 q -0.704,0 -0.704,0.688 v 6.112 q 0,0.688 0.704,0.688 h 3.952 v -3.056 h -2.336 v -1.776 h 4.288 v 6.608 h -5.952 q -2.608,0 -2.608,-2.608 z m 11.299988,0 v -5.824 q 0,-2.608 2.608,-2.608 h 3.664 q 2.608,0 2.608,2.608 v 5.824 q 0,2.608 -2.608,2.608 h -3.664 q -2.608,0 -2.608,-2.608 z m 1.952,0.144 q 0,0.688 0.704,0.688 h 3.568 q 0.704,0 0.704,-0.688 v -6.112 q 0,-0.688 -0.704,-0.688 h -3.568 q -0.704,0 -0.704,0.688 z m 9.987998,2.464 v -11.04 h 2.128 l 4.896,7.872 v -7.872 h 1.952 v 11.04 h -2.112 l -4.912,-7.872 v 7.872 z"
+       id="text1"
+       aria-label="GON" />
+    <path
+       style="font-weight:600;font-size:16px;line-height:0;font-family:Oxanium;-inkscape-font-specification:'Oxanium Semi-Bold';text-align:center;letter-spacing:0.5px;text-anchor:middle;fill:#090909"
+       d="m 86.863155,35.03293 v -5.824 q 0,-2.608 2.608,-2.608 h 3.664 q 2.608,0 2.608,2.608 v 5.824 q 0,2.608 -2.608,2.608 h -3.664 q -2.608,0 -2.608,-2.608 z m 1.952,0.144 q 0,0.688 0.704,0.688 h 3.568 q 0.704,0 0.704,-0.688 v -6.112 q 0,-0.688 -0.704,-0.688 h -3.568 q -0.704,0 -0.704,0.688 z"
+       id="text2"
+       aria-label="O" />
   </g>
 </svg>
